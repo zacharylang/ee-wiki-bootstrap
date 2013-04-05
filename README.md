@@ -10,7 +10,7 @@ This theme is based on [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
 If you’re interested in making this better please feel free to [fork](http://help.github.com/fork-a-repo/) the code on [GitHub](https://github.com/digitaladditive/ee-wiki-bootstrap) and send [pull requests](http://help.github.com/send-pull-requests/). Also, we’d love to track any potential issues through the repository’s [Issues tracker](https://github.com/digitaladditive/ee-wiki-bootstrap/issues).
 
 ## Support
-We are happy to answer questions as needed and able, but there is no official support for using this config setup. Use it at your own risk with the understanding that our responses to any inquires will fall behind any commitments we may have at the time.
+We are happy to answer questions as needed and able, but there is no official support for using this wiki theme. Use it at your own risk with the understanding that our responses to any inquiries will fall behind any commitments we may have at the time.
 
 [development@digitaladditive.com](mailto:development@digitaladditive.com)
 
